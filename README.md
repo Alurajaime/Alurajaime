@@ -1,5 +1,5 @@
 ## Olá alunos! 👋
-
+Tudo bem com vocês
 <!-- Oi!
 **Alurajaime/Alurajaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
